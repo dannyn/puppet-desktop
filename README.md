@@ -1,4 +1,16 @@
 
+Usage
+=====
+
+To apply 
+
+```
+$ puppet apply /etc/puppetlabs/manifests/site.pp
+```
+
+where 'site.pp' is the configuration for the box. 
+
+
 Vagrant Dev Environment
 ======================
 
